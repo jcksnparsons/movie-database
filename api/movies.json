@@ -1,0 +1,24 @@
+{
+    "movies": [
+        {
+            "id": 1,
+            "title": "Raising Arizona",
+            "releaseDate": "1987"
+        },
+        {
+            "id": 2,
+            "title": "Children Of Men",
+            "releaseDate": "2006"
+        },
+        {
+            "id": 3,
+            "title": "Caddyshack",
+            "releaseDate": "1980"
+        },
+        {
+            "id": 4,
+            "title": "Round Midnight",
+            "releaseDate": "1986"
+        }
+    ]
+}
